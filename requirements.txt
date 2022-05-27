@@ -3,3 +3,4 @@ wheel
 mysqlclient
 Pillow
 django-paypal
+gunicorn
